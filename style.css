@@ -17,7 +17,7 @@ body { background:#fff; font-size: 15.5px; line-height: 20px; font-family: 'Robo
 #header, #main, #footer { margin:0 auto; width:100%; }
 
 a { 
-	color:#605754; 
+	color:#000066; 
 	text-decoration:underline; transition: color 0.1s linear; -moz-transition: color 0.1s linear; -webkit-transition: color 0.1s linear; -o-transition: color 0.1s linear; }
 	a:hover { color:#A25799; }
 	/* a:visited { color:#1b40e6; } */
